@@ -4,9 +4,9 @@
 </p>
 
 <h2>About Me</h2>
-<p>I am a full stack developer based in Semarang, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to Software Development, Web development, System Administration, DevOps, Networking, and the Internet of Things.</p>
+<p>I am a full stack developer based in Pati, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to Software Development, Web development, System Administration, DevOps, Networking, and the Internet of Things.</p>
 <p>I am currently completing my undergraduate education in Informatics Engineering at Dian Nusantoro University, Semarang. Now I focus on improving myself by learning new things every day so that I am now better than yesterday.</p>
-<p>This is my second github account which I use to work at PT Venturi Amiga Parahyangan Empire. Check out my first github account in <a href="https://github.com/arifsptra">agithub.com/arifsptra</a></p>
+<p>This is my second github account which I use to work at PT Venturi Amiga Parahyangan Empire. Check out my first github account in <a href="https://github.com/arifsptra">github.com/arifsptra</a></p>
 <p>See my personal website <a href="https://arifsaputra.my.id">arifsaputra.my.id</a> to know me more.</p>
 <p>👀 Now I’m looking to collaborate with other developer.</p>
 <p>⚡ My Fun fact: I love football, finding bugs and discovering something new.</p>
